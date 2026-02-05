@@ -79,13 +79,7 @@
    # - ZEREPY_API_KEY
    ```
 
-3. **Deploy Smart Contracts**
-
-   ```bash
-   npx hardhat run scripts/deploy.ts --network sonic_blaze_testnet
-   ```
-
-4. **Start Development Server**
+3. **Start Development Server**
    ```bash
    npm run dev
    ```
