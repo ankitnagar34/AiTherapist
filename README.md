@@ -114,5 +114,5 @@
 ---
 
 <p align="center">
-Built with ❤️ on Sonic Blaze Testnet and Zerepy for better mental health
+Built with ❤️ By Ankit Nagar.
 </p>
